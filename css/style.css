@@ -460,7 +460,7 @@ body::-webkit-scrollbar {
 
 .faq-hero {
   width: 100%;
-  min-height: 100vh;
+  height: 100vh;
   padding-top: 120px;
   display: flex;
 }
@@ -794,6 +794,7 @@ body::-webkit-scrollbar {
 
   .faq-hero {
     flex-direction: column;
+    height: auto;
   }
 
   .faq-col-2 {
