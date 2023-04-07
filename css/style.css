@@ -745,7 +745,7 @@ body::-webkit-scrollbar {
 
   .mom-hero-section .logo {
    width: 50%;
-    margin-top: -250px;
+    /* margin-top: -250px; */
   }
 
   .faq-mom-img {
@@ -784,7 +784,7 @@ body::-webkit-scrollbar {
 
   .mom-hero-section .logo {
     margin-left: 3rem;
-    margin-top: -300px;
+    /* margin-top: -300px; */
     width: 50%;
   }
 
@@ -868,7 +868,7 @@ body::-webkit-scrollbar {
      
   }
   .mom-hero-section .logo {
-    margin-top: -200px; 
+    /* margin-top: -200px;  */
     margin-left: -10px; 
   }
   .mom-hero-section .logo img{
