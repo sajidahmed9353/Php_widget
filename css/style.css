@@ -802,7 +802,7 @@ body::-webkit-scrollbar {
 
   .faq-hero {
     flex-direction: column;
-    height: 200vh;
+    
   }
 
   .faq-col-2 {
