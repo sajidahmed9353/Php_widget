@@ -549,8 +549,8 @@ body::-webkit-scrollbar {
 .mom-hero-img {
   width: 70%;
   max-width: 1040px;
-  /* height: auto;
-  position: absolute; */
+  height: auto;
+  position: absolute;
   bottom: 0;
   right: 0;
 }
