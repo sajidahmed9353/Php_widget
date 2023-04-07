@@ -459,7 +459,6 @@ body::-webkit-scrollbar {
 }
 .faq-container{
   width: 100%;
-  position:relative;
   height: -webkit-fill-available;
 }
 
@@ -801,12 +800,13 @@ body::-webkit-scrollbar {
 
   .faq-hero {
     flex-direction: column;
-    height: 1000px;
+    height: auto;
+    
   }
 
   .faq-col-2 {
     position: relative;
-    padding: 200px;
+    height: 465px;
     margin-right: -40px;
     margin-top: 200px;
   }
@@ -815,7 +815,8 @@ body::-webkit-scrollbar {
     width: 1000px;
     top: -5px;
     position: absolute;
-    
+    bottom: 0;
+    right: 0;
   }
 
   .accordion .accordion-header h3 {
