@@ -216,6 +216,7 @@ body::-webkit-scrollbar {
 #main {
   background-color: #f8f9f1;
   z-index: -100;
+  height: -webkit-fill-available;
 }
 
 .container {
@@ -459,6 +460,7 @@ body::-webkit-scrollbar {
 }
 .faq-container{
   width: 100%;
+  height: -webkit-fill-available;
   position:relative;
 }
 
