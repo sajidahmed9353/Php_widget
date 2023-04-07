@@ -459,6 +459,7 @@ body::-webkit-scrollbar {
 .faq-container{
   width: 100%;
   position:relative;
+  height: -webkit-fill-available
 }
 
 .faq-hero {
@@ -584,6 +585,7 @@ body::-webkit-scrollbar {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: -webkit-fill-available
 }
 
 #mint-hero .wallet {
