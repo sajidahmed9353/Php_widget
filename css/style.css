@@ -204,10 +204,6 @@ section {
 }
 
 
-
-
-
-
 body::-webkit-scrollbar {
   display: none;
 }
@@ -812,8 +808,7 @@ body::-webkit-scrollbar {
   }
 
   .faq-mom-img {
-    width: 1000px;
-    top: -5px;
+   
     position: absolute;
     
   }
