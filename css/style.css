@@ -35,7 +35,6 @@ body {
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
-  height: -webkit-fill-available;
 }
 
 
@@ -216,7 +215,6 @@ body::-webkit-scrollbar {
 #main {
   background-color: #f8f9f1;
   z-index: -100;
-  height: -webkit-fill-available;
 }
 
 .container {
